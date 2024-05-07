@@ -37,4 +37,4 @@ To see the results and analysis check out [analysis/README.md](analysis/README.m
 
 ## Developer
 
-- Yuvraj Singh : 2022UCS1540
+- Yuvraj Singh 
