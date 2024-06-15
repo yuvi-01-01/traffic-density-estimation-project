@@ -1,6 +1,6 @@
 ## Analysis
 
-An analysis of the results along with the plots can be read in [report-traffic-density.pdf](report-traffic-density.pdf)
+An analysis of the results along with the plots can be read in [report_traffic_density.pdf](report_traffic_density.pdf)
 
 ### Contents
 
